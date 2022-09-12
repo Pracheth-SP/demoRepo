@@ -1,0 +1,7 @@
+name: Block Module
+description: Defines a custom module.
+package: Custom
+type: module
+dependencies: 
+  -drupal: block
+core_version_requirement: ^8 || ^9
